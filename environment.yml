@@ -1,0 +1,12 @@
+name: SemSegAgriculture
+channels: 
+  - defaults
+dependencies:
+  - scikit-learn==0.21.3
+  - torch==1.4.0
+  - numpy
+  - torchvision
+  - pandas==0.24.2
+  - matplotlib==2.2.2
+  - Pillow
+  - torchvision==0.4.1
